@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Pengabdi Setan 2: Communion",
+    "genre": "Horor",
+    "ageRating": "17+",
+    "imageUrl": "https://picsum.photos/seed/ps2/400/600",
+    "description": "Keluarga Rini pindah ke rumah susun berkarakter aneh yang ternyata menyimpan teror mematikan.",
+    "release": { "year": 2022, "month": "Agustus" },
+    "production": { "director": "Joko Anwar", "studio": "Rapi Films" },
+    "cast": ["Tara Basro", "Endy Arfian", "Bront Palarae"]
+  },
+  {
+    "id": 2,
+    "title": "Mencuri Raden Saleh",
+    "genre": "Aksi",
+    "ageRating": "13+",
+    "imageUrl": "https://picsum.photos/seed/mrs/400/600",
+    "description": "Sekelompok anak muda amatir berencana mencuri lukisan bersejarah dari Istana Negara.",
+    "release": { "year": 2022, "month": "Agustus" },
+    "production": { "director": "Angga Dwimas Sasongko", "studio": "Visinema Pictures" },
+    "cast": ["Iqbaal Ramadhan", "Angga Yunanda", "Aghniny Haque"]
+  },
+  {
+    "id": 3,
+    "title": "Laskar Pelangi",
+    "genre": "Drama",
+    "ageRating": "SU",
+    "imageUrl": "https://picsum.photos/seed/laskar/400/600",
+    "description": "Perjuangan 10 anak desa di Belitung untuk mendapatkan pendidikan di tengah keterbatasan.",
+    "release": { "year": 2008, "month": "September" },
+    "production": { "director": "Riri Riza", "studio": "Miles Films" },
+    "cast": ["Cut Mini", "Ikranagara", "Zulfanny"]
+  },
+  {
+    "id": 4,
+    "title": "Agak Laen",
+    "genre": "Komedi",
+    "ageRating": "13+",
+    "imageUrl": "https://picsum.photos/seed/agaklaen/400/600",
+    "description": "Empat penjaga rumah hantu pasar malam harus menyembunyikan mayat pengunjung yang mati jantungan.",
+    "release": { "year": 2024, "month": "Februari" },
+    "production": { "director": "Muhadkly Acho", "studio": "Imajinari" },
+    "cast": ["Bene Dion", "Oki Rengga", "Indra Jegel"]
+  },
+  {
+    "id": 5,
+    "title": "Gundala",
+    "genre": "Aksi",
+    "ageRating": "13+",
+    "imageUrl": "https://picsum.photos/seed/gundala/400/600",
+    "description": "Sancaka bertahan hidup di jalanan yang keras hingga ia tersambar petir dan mendapat kekuatan.",
+    "release": { "year": 2019, "month": "Agustus" },
+    "production": { "director": "Joko Anwar", "studio": "Screenplay Films" },
+    "cast": ["Abimana Aryasatya", "Tara Basro", "Bront Palarae"]
+  },
+  {
+    "id": 6,
+    "title": "KKN di Desa Penari",
+    "genre": "Horor",
+    "ageRating": "17+",
+    "imageUrl": "https://picsum.photos/seed/kkn/400/600",
+    "description": "Enam mahasiswa mengalami kejadian mistis berujung petaka saat melaksanakan KKN di desa misterius.",
+    "release": { "year": 2022, "month": "April" },
+    "production": { "director": "Awi Suryadi", "studio": "MD Pictures" },
+    "cast": ["Tissa Biani", "Adinda Thomas", "Achmad Megantara"]
+  },
+  {
+    "id": 7,
+    "title": "Ngeri-Ngeri Sedap",
+    "genre": "Komedi",
+    "ageRating": "13+",
+    "imageUrl": "https://picsum.photos/seed/ngeri/400/600",
+    "description": "Sepasang orang tua pura-pura bercerai agar anak-anaknya yang merantau mau pulang ke kampung.",
+    "release": { "year": 2022, "month": "Juni" },
+    "production": { "director": "Bene Dion Rajagukguk", "studio": "Imajinari" },
+    "cast": ["Arswendy Beningswara", "Tika Panggabean", "Boris Bokir"]
+  },
+  {
+    "id": 8,
+    "title": "Habibie & Ainun",
+    "genre": "Romantis",
+    "ageRating": "SU",
+    "imageUrl": "https://picsum.photos/seed/habibie/400/600",
+    "description": "Kisah cinta abadi antara Presiden ketiga Indonesia, B.J. Habibie, dan sang istri, Ainun.",
+    "release": { "year": 2012, "month": "Desember" },
+    "production": { "director": "Faozan Rizal", "studio": "MD Pictures" },
+    "cast": ["Reza Rahadian", "Bunga Citra Lestari", "Tio Pakusadewo"]
+  },
+  {
+    "id": 9,
+    "title": "The Raid: Redemption",
+    "genre": "Aksi",
+    "ageRating": "21+",
+    "imageUrl": "https://picsum.photos/seed/theraid/400/600",
+    "description": "Pasukan elit terjebak di apartemen kumuh yang dikuasai oleh gembong narkoba mematikan.",
+    "release": { "year": 2011, "month": "September" },
+    "production": { "director": "Gareth Evans", "studio": "XYZ Films" },
+    "cast": ["Iko Uwais", "Joe Taslim", "Yayan Ruhian"]
+  },
+  {
+    "id": 10,
+    "title": "Dua Garis Biru",
+    "genre": "Drama",
+    "ageRating": "13+",
+    "imageUrl": "https://picsum.photos/seed/duagaris/400/600",
+    "description": "Sepasang remaja SMA harus menghadapi konsekuensi berat setelah melakukan kesalahan fatal.",
+    "release": { "year": 2019, "month": "Juli" },
+    "production": { "director": "Gina S. Noer", "studio": "Starvision" },
+    "cast": ["Angga Yunanda", "Adhisty Zara", "Cut Mini"]
+  },
+  {
+    "id": 11,
+    "title": "Perempuan Tanah Jahanam",
+    "genre": "Horor",
+    "ageRating": "17+",
+    "imageUrl": "https://picsum.photos/seed/ptj/400/600",
+    "description": "Maya pulang ke desa leluhurnya untuk mencari warisan, tanpa tahu warga desa mengincarnya.",
+    "release": { "year": 2019, "month": "Oktober" },
+    "production": { "director": "Joko Anwar", "studio": "Base Entertainment" },
+    "cast": ["Tara Basro", "Marissa Anita", "Asmara Abigail"]
+  },
+  {
+    "id": 12,
+    "title": "Warkop DKI Reborn",
+    "genre": "Komedi",
+    "ageRating": "13+",
+    "imageUrl": "https://picsum.photos/seed/warkop/400/600",
+    "description": "Dono, Kasino, dan Indro kembali bertingkah konyol saat bergabung dengan lembaga kepolisian swasta.",
+    "release": { "year": 2016, "month": "September" },
+    "production": { "director": "Anggy Umbara", "studio": "Falcon Pictures" },
+    "cast": ["Abimana Aryasatya", "Vino G. Bastian", "Tora Sudiro"]
+  },
+  {
+    "id": 13,
+    "title": "My Stupid Boss",
+    "genre": "Komedi",
+    "ageRating": "13+",
+    "imageUrl": "https://picsum.photos/seed/stupidboss/400/600",
+    "description": "Diana harus menghadapi kelakuan bosnya yang ajaib, pelit, dan super menyebalkan di Malaysia.",
+    "release": { "year": 2016, "month": "Mei" },
+    "production": { "director": "Upi Avianto", "studio": "Falcon Pictures" },
+    "cast": ["Reza Rahadian", "Bunga Citra Lestari", "Alex Abbad"]
+  },
+  {
+    "id": 14,
+    "title": "Bumi Manusia",
+    "genre": "Drama",
+    "ageRating": "17+",
+    "imageUrl": "https://picsum.photos/seed/bumimanusia/400/600",
+    "description": "Kisah cinta Minke dan Annelies yang terhalang oleh struktur sosial di masa kolonial Hindia Belanda.",
+    "release": { "year": 2019, "month": "Agustus" },
+    "production": { "director": "Hanung Bramantyo", "studio": "Falcon Pictures" },
+    "cast": ["Iqbaal Ramadhan", "Mawar Eva de Jongh", "Sha Ine Febriyanti"]
+  },
+  {
+    "id": 15,
+    "title": "Siksa Kubur",
+    "genre": "Horor",
+    "ageRating": "17+",
+    "imageUrl": "https://picsum.photos/seed/siksa/400/600",
+    "description": "Sita mencari orang paling berdosa untuk membuktikan bahwa agama dan siksa kubur itu tidak ada.",
+    "release": { "year": 2024, "month": "April" },
+    "production": { "director": "Joko Anwar", "studio": "Come and See Pictures" },
+    "cast": ["Faradina Mufti", "Reza Rahadian", "Widuri Puteri"]
+  },
+  {
+    "id": 16,
+    "title": "Cek Toko Sebelah",
+    "genre": "Komedi",
+    "ageRating": "13+",
+    "imageUrl": "https://picsum.photos/seed/cektoko/400/600",
+    "description": "Konflik keluarga Tionghoa ketika sang ayah mewariskan tokonya pada anak bungsu yang sukses.",
+    "release": { "year": 2016, "month": "Desember" },
+    "production": { "director": "Ernest Prakasa", "studio": "Starvision" },
+    "cast": ["Ernest Prakasa", "Dion Wiyoko", "Chew Kin Wah"]
+  },
+  {
+    "id": 17,
+    "title": "Ada Apa dengan Cinta?",
+    "genre": "Romantis",
+    "ageRating": "13+",
+    "imageUrl": "https://picsum.photos/seed/aadc/400/600",
+    "description": "Gadis populer di sekolah secara tak terduga jatuh cinta pada pemuda pendiam yang menyukai puisi.",
+    "release": { "year": 2002, "month": "Februari" },
+    "production": { "director": "Rudi Soedjarwo", "studio": "Miles Films" },
+    "cast": ["Dian Sastrowardoyo", "Nicholas Saputra", "Titi Kamal"]
+  },
+  {
+    "id": 18,
+    "title": "Marlina Si Pembunuh dalam Empat Babak",
+    "genre": "Drama",
+    "ageRating": "21+",
+    "imageUrl": "https://picsum.photos/seed/marlina/400/600",
+    "description": "Seorang janda di Sumba mencari keadilan setelah diserang dan dirampok oleh sekelompok pria.",
+    "release": { "year": 2017, "month": "November" },
+    "production": { "director": "Mouly Surya", "studio": "Cinesur" },
+    "cast": ["Marsha Timothy", "Dea Panendra", "Yoga Pratama"]
+  },
+  {
+    "id": 19,
+    "title": "Sri Asih",
+    "genre": "Aksi",
+    "ageRating": "13+",
+    "imageUrl": "https://picsum.photos/seed/sriasih/400/600",
+    "description": "Alana menemukan fakta bahwa dirinya adalah reinkarnasi Dewi Asih yang bertugas melindungi bumi.",
+    "release": { "year": 2022, "month": "November" },
+    "production": { "director": "Upi Avianto", "studio": "Screenplay Films" },
+    "cast": ["Pevita Pearce", "Reza Rahadian", "Jefri Nichol"]
+  },
+  {
+    "id": 20,
+    "title": "Yowis Ben",
+    "genre": "Komedi",
+    "ageRating": "13+",
+    "imageUrl": "https://picsum.photos/seed/yowis/400/600",
+    "description": "Bayu membentuk band sekolah untuk menjadi populer dan merebut hati gadis pujaannya.",
+    "release": { "year": 2018, "month": "Februari" },
+    "production": { "director": "Fajar Nugros", "studio": "Starvision" },
+    "cast": ["Bayu Skak", "Joshua Suherman", "Cut Meyriska"]
+  }
+]
